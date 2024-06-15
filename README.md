@@ -1,5 +1,7 @@
 # PARALELISMO-P3-UDC
 
+- **Publica tus dudas aquí si necesitas ayuda** --> https://github.com/PeruvianKING/PARALELISMO-P3-UDC/discussions/1
+
 - codigo_original_enunciado.c --> código del que se parte en la práctica
 
 - main.c --> práctica resuelta
